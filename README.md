@@ -12,5 +12,4 @@ Converts an integer number into its text representation
 
 #### Output:
 
-    one hundred twenty-three million four hundred fifty-six thousand
-    seven hundred eighty-nine
+    one hundred twenty-three million four hundred fifty-six thousand seven hundred eighty-nine
